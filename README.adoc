@@ -1,0 +1,5 @@
+Important Note
+==============
+
+All CI-RT specific features are merged in upstream
+warnings-plugin. Please refere to the original repository!
